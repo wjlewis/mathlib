@@ -1,0 +1,10 @@
+{
+  "name": "mathlib",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=\"$NODE_OPTIONS --experimental-vm-modules\" jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
